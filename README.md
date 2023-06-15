@@ -1,5 +1,5 @@
 
-# Lead Pulser Sample Codes
+# Lead Pulser Sample Code
 
 A public sample of some of the code written for LeadPulser.
 
