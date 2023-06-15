@@ -12,11 +12,6 @@ const pa11y = require('pa11y');
 const natural = require('natural');
 const request = require('request');
 
-
-
-
-
-
 class Conductor {
   constructor() { }
 
