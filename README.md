@@ -9,7 +9,7 @@ If you want to quickly take a look without signing up you can use the **demo cre
 
 **Username**: demo@leadpulser.com
 
-**Password**: demo
+**Password**: demodemo
 
 
 
