@@ -19,6 +19,6 @@ To further facilitate your outreach efforts, LeadPulser offers a range of custom
 
 ## Screenshots
 
-![App Screenshot](https://media.licdn.com/dms/image/D4E2DAQFbZJupqapCng/profile-treasury-image-shrink_800_800/0/1682006913299?e=1687410000&v=beta&t=4z8kxaH4pGCA25USwNbT60Ouocheq7QhmnNABxBF_pk)
+![App Screenshot](https://raw.githubusercontent.com/Ofrepose/Ofrepose/master/imgs/leadpulser.png)
 
 
